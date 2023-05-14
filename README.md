@@ -1,0 +1,1 @@
+# lambda-sqs-glue-redshift
